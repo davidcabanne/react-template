@@ -1,9 +1,10 @@
 {
     "version": 3,
-    "mappings": "AAEA,AAAA,QAAQ,CAAC;EACL,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,wCAA8D;CAC7E",
+    "mappings": "AE0UA;;;;GAIG;AF3UH,AAAA,QAAQ,CAAC;EACL,QAAQ,EAAE,QAAQ;EAClB,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,wCAA8D;CAK7E;;AEmGC,MAAM,EAAE,SAAS,EAAE,KAAK;EF3G1B,AAAA,QAAQ,CAAC;IAMD,UAAU,EAAE,wCAAoD;GAEvE",
     "sources": [
         "Default.scss",
-        "../Variables/Variables.scss"
+        "../Variables/Variables.scss",
+        "../Variables/breakpoints.scss"
     ],
     "names": [],
     "file": "Default.css"
