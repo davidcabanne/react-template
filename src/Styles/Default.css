@@ -1,0 +1,7 @@
+.Default {
+  position: relative;
+  height: 100vh;
+  background: -webkit-gradient(linear, left top, right top, from(#d6dde4), to(#8f90a0));
+  background: linear-gradient(90deg, #d6dde4, #8f90a0);
+}
+/*# sourceMappingURL=Default.css.map */
